@@ -1,11 +1,11 @@
 # 😊 Hi, I’m **Jason** or **@jasont00**!
-**Self-driven, ambitious** individual currently studying Computer Science, but also heavily interested in Digital Media
+**Self-driven, ambitious** individual currently studying Computer Science, but also interested in Digital Media
 ***
 
 ### 💻 Software, Coding, and More!
 
 About Me...
-- 🎓 Undergraduate at York University (3rd Year)!
+- 🎓 Undergraduate at York University (4th Year)!
 - 🌱 I’m currently learning ways to apply my coding skills and knowledge!
 - 👍 Interested in software, games, and creative projects!
 
@@ -13,7 +13,7 @@ For inquiries...
 - 📫 Work Email: <jasontr460@gmail.com>
 - 📫 Personal Email: <jasontd0d0@gmail.com>
 
-Techinical Skills...
+Technical Skills...
 - Python
 - Java
 - Javascript
